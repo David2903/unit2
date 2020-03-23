@@ -15,3 +15,11 @@ int i = 0;
 	}
     return 0; 
 }
+
+//The initial value for the bucle starts once, and the contitional is compared with only one value , it stops the loop when the condition stops fulfillying
+
+
+//When you use "," you separate parameters
+
+
+//When you use ";" you say the end 

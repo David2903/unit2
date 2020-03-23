@@ -23,4 +23,5 @@ int main (int argc, char*argv[])
  	
  	return 0;
 }
-
+//Signed variables, such as signed integers will allow you to represent numbers both in the positive and negative ranges
+//The program is able to do that multiplication, beucase the number and the character were recognized by the coumputer as an acci

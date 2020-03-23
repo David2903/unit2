@@ -33,3 +33,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 
+// when I put a character, it does not do anything, keep the same
+
+//int and an array would do the same to scan the numbers in the memory that they would use,
+//they would start and then read the next byte, so we can translate the memory used for an array to a while intenger number

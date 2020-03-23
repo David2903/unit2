@@ -19,3 +19,5 @@ int main(int argc, char *argv[])
     printf("name=\"%s\" and full_name=\"%s\"\n", name, full_name);
     return 0; 
 }
+
+//	Intenger are of 2 or 4 bytes in a range of -32,768 to 32,767 or -2,147,483,648 to 2,147,483,647
